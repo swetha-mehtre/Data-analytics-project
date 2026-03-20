@@ -1,29 +1,87 @@
-# Data Analytics Projects
+# 📊 Data Analytics Portfolio
 
-This repository is a collection of various data analytics projects completed using a range of tools and technologies, including Python, SQL, Excel, and Power BI. The goal of this repository is to showcase my skills in data cleaning, exploratory data analysis (EDA), and creating data visualizations to drive business insights.
-
----
-
-### Projects in This Repository
-
-1.  **[Swiggy Food Analysis with Power BI](https://github.com/swetha-mehtre/Data-analytics-project/tree/main/Swiggy-Food-Anlysis-PowerBI-main)**
-    * **Description:** This project involves analyzing Swiggy food delivery data to derive key business insights. It uses Power BI to create an interactive dashboard that visualizes trends in sales, top-selling items, and performance metrics.
-    * **Technologies Used:** Power BI
-
-2.  **[Olist E-commerce SQL Analysis](https://github.com/swetha-mehtre/Data-analytics-project/tree/main/olist-ecommerce-sql-analysis)**
-    * **Description:** An in-depth analysis of a large e-commerce dataset from Olist, a Brazilian e-commerce platform. The project uses SQL to query the data and answer specific business questions related to customer behavior, product categories, and order fulfillment.
-    * **Technologies Used:** SQL
-
-3.  **[Heart Disease Prediction using Exploratory Data Analysis (EDA)](https://github.com/swetha-mehtre/Data-analytics-project/tree/main/heart-disease-using-EDA)**
-    * **Description:** This project focuses on performing an Exploratory Data Analysis (EDA) on a heart disease dataset. It uses Python libraries to clean the data, visualize relationships between variables, and identify patterns that could be useful for a predictive model.
-    * **Technologies Used:** Python (Pandas, Matplotlib, Seaborn)
-
-4.  **[Excel Data Cleaning and Analysis](https://github.com/swetha-mehtre/Data-analytics-project/tree/main/excel-data-prepration-cleaning-filtering-sorting-analysing)**
-    * **Description:** A practical project demonstrating skills in data preparation and analysis using Microsoft Excel. It covers techniques such as data cleaning, filtering, sorting, and using pivot tables to summarize data and uncover basic insights from a raw dataset.
-    * **Technologies Used:** Microsoft Excel
+This repository showcases a collection of data analytics projects performed using **Python, SQL, Excel, and Power BI**. The focus is on applying data cleaning, exploratory data analysis (EDA), and visualization techniques to extract meaningful insights from real-world datasets.
 
 ---
 
-### How to Navigate
+## 🔍 Objective
 
-Each project is contained within its own folder. You can click on the project titles above to go directly to the respective project directory. Each project folder contains its own files, including the analysis scripts, datasets, and a separate `README.md` file with more specific details.
+To demonstrate end-to-end data analysis workflow:
+- Data Cleaning & Preparation  
+- Exploratory Data Analysis (EDA)  
+- Data Visualization  
+- Insight Generation  
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- SQL (MySQL / PostgreSQL)  
+- Power BI  
+- Microsoft Excel  
+
+---
+
+## 📁 Projects Included
+
+### 1. Swiggy Food Delivery Analysis (Power BI)
+- Analyzed food delivery data to identify order trends and customer preferences  
+- Built an interactive dashboard to visualize:
+  - Top-selling items  
+  - Order patterns  
+  - Revenue trends  
+- 📊 Key Insight: Identified peak ordering times and popular food categories  
+
+---
+
+### 2. Olist E-commerce Analysis (SQL)
+- Performed SQL queries on a large e-commerce dataset  
+- Analyzed:
+  - Customer behavior  
+  - Product category performance  
+  - Order delivery trends  
+- 📊 Key Insight: Found patterns in customer purchases and delivery efficiency  
+
+---
+
+### 3. Heart Disease Analysis (Python - EDA)
+- Conducted exploratory data analysis on a healthcare dataset  
+- Visualized relationships between health parameters  
+- Identified important factors influencing heart disease  
+- 📊 Key Insight: Observed correlations between medical attributes and disease risk  
+
+---
+
+### 4. Excel Data Cleaning & Analysis
+- Cleaned and prepared raw datasets using Excel  
+- Applied:
+  - Filtering  
+  - Sorting  
+  - Pivot Tables  
+- 📊 Key Insight: Extracted structured insights from unorganized data  
+
+---
+
+## 📌 Key Learnings
+
+- Practical experience in handling real-world datasets  
+- Strong understanding of data cleaning and preprocessing  
+- Ability to derive insights using multiple tools  
+- Experience in building dashboards and visual reports  
+
+---
+
+## 🚀 Future Improvements
+
+- Add advanced statistical analysis  
+- Improve dashboard interactivity  
+- Apply machine learning models for predictive insights  
+
+---
+
+## 📬 Contact
+
+If you'd like to connect or discuss opportunities:  
+- LinkedIn: https://www.linkedin.com/in/swetha-6619442a9/  
+- GitHub: https://github.com/swetha-mehtre  
